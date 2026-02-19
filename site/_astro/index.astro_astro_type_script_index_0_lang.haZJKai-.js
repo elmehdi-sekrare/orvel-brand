@@ -1,0 +1,1 @@
+import{r as e}from"./journal.CDt1KZ4Q.js";e();

@@ -1,0 +1,1 @@
+import{t as e}from"./app.BPsFN0nb.js";e();

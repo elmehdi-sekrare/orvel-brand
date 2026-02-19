@@ -1,0 +1,1 @@
+import{n as e}from"./contact.Djyn0gg0.js";e();

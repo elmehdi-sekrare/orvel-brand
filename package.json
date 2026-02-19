@@ -1,0 +1,12 @@
+{
+  "name": "orvel-brand",
+  "private": true,
+  "description": "Orvel: brand and digital studio website (static, ready for Netlify).",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs 5321 site"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,1 @@
+import{t as e}from"./work.B--uoSkO.js";e();
