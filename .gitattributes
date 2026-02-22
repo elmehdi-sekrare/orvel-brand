@@ -2,8 +2,8 @@
 * -text
 
 # language stats
-site/**/*.html linguist-language=TypeScript
-site/index.html -linguist-language
-site/404.html -linguist-language
-site/_astro/*.css linguist-generated=false linguist-vendored=false
-site/_astro/*.js linguist-generated=false linguist-vendored=false
+*.html linguist-language=TypeScript
+site/index.html linguist-language=HTML
+site/404.html linguist-language=HTML
+*.css linguist-generated=false linguist-vendored=false
+*.js linguist-generated=false linguist-vendored=false
